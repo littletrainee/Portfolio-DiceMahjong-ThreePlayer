@@ -1,6 +1,6 @@
 # <center>應徵作品</center>
 # <center>之</center>
-# <center>骰子麻將(雙人版)</center>
+# <center>骰子麻將(三人版)(純文字版)</center>
 
 ## 內容說明:
 ### 遊戲人數：2-4
